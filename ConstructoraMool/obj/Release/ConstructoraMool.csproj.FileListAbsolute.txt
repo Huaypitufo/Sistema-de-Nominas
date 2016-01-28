@@ -1,0 +1,13 @@
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Release\ConstructoraMool.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.csproj.ResolveComReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Release\ConstructoraMool.exe
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Release\ConstructoraMool.pdb
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Release\DocX.dll
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.Insert.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.Principal.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.Properties.Resources.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.Reports.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.Update.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.csproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.exe
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Release\ConstructoraMool.pdb

@@ -1,0 +1,14 @@
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Debug\ConstructoraMool.exe.config
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Debug\ConstructoraMool.exe
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\bin\Debug\ConstructoraMool.pdb
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\ConstructoraMool.csproj.ResolveComReference.cache
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\ConstructoraMool.csproj.GenerateResource.Cache
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\ConstructoraMool.exe
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\ConstructoraMool.pdb
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Print.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Insert.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Principal.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Properties.Resources.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Reports.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\Mool.Update.resources
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\ConstructoraMool\ConstructoraMool\obj\Debug\ConstructoraMool.csprojResolveAssemblyReference.cache
